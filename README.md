@@ -49,7 +49,7 @@ mvn spring-boot:run
 
 ### Autor
 <a href="https://www.linkedin.com/in/victor-augusto-campos-bortolotto/">
-<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFt3YYTxPs9hQ/profile-displayphoto-shrink_200_200/0/1614791853272?e=1620259200&v=beta&t=YEb4R3_ql9AeMqna54YGf9TI43A5JiiSVDTgJNvFrOg" width="100px;" alt=""/>
+<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFt3YYTxPs9hQ/profile-displayphoto-shrink_200_200/0/1614791853272?e=1634169600&v=beta&t=cZy1JLDfzlCKbTfWEs_wBrgLA4dl239CWbThcU7bGKA" width="100px;" alt=""/>
 </a>
 </br>
 <a href="https://www.linkedin.com/in/victor-augusto-campos-bortolotto/">
